@@ -1,4 +1,2 @@
 random text
-random text2
-random text3
 random4
